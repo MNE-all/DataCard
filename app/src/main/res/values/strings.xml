@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Данные карты</string>
+    <string name="exampleBIN">4571 7360</string>
+    <string name="search">Найти</string>
+    <string name="userTaskText">Введите первые цифры номера карты (БИН/ИИН)</string>
+    <string name="exampleBIN2">45717360</string>
+    <string name="scheme_network">SCHEME / NETWORK</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="bank">Bank</string>
+    <string name="country">Country</string>
+    <string name="latitude_0_longitude_0">(latitude: 0, longitude: 0)</string>
+    <string name="notFound">Информация по данному BIN/IIN не найдена</string>
+    <string name="about">О приложении</string>
+    <string name="rules">Приложение отображает информацию, найденную по BIN.
+Bank Identification Number (BIN) = Банковский идентификационный номер (БИН) - часть номера, расположенного на пластиковой карте. Используется для идентификации банка в рамках карточной платежной системы при авторизации, процессинге и клиринге</string>
+</resources>
